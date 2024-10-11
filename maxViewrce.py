@@ -40,7 +40,7 @@ def banner():
     print('-u http://www.xxx.com  即可进行单个url漏洞检测')
     print('-l targetUrl.txt  即可对选中文档中的网址进行批量检测')
     print('--help 查看更多详细帮助信息')
-    print('author：ni1hao')
+    print('author：yui14256')
 
 
 # 主程序
