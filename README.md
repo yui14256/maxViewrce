@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/6a0fa00b-6260-41f2-92c8-713eec3843d3)
+![image](https://github.com/user-attachments/assets/e2b9e065-4413-41c4-ba50-43af3c7a009b)
+
 
 maxView 系统 dynamiccontent.properties.xhtml 远程代码执行漏洞
 
